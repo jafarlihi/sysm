@@ -2,7 +2,7 @@
 
 # sysm
 
-sysm (**sys**tem **m**usic) lets you configure specific sounds to be played on any arbitrary internal system event or an external event. This can give you visibility into your system while you are working (such as CPU/RAM/disk/network usage) without taking up space in your screen or notifications about external events such as something changing in some arbitrary website.
+sysm (**sys**tem **m**usic) lets you configure specific sounds to be played on any arbitrary internal system event or an external event. This can give you visibility into your system while you are working (such as CPU/RAM/disk/network usage, audit events, etc.) without taking up space in your screen or notifications about external events such as something changing in some arbitrary website.
 
 ## Concepts
 
