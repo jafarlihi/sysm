@@ -5,3 +5,4 @@
 - Compile regex for regex types?
 - Make a macro to register types/sources
 - Handle error better in shell_source
+- Check if it works in macOS
