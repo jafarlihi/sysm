@@ -5,4 +5,6 @@
 - Compile regex for regex types?
 - Make a macro to register types/sources
 - Handle error better in shell_source
-- Check if it works in macOS
+- Check if it works in macOS and BSDs
+- Make an AUR package for Arch Linux
+- Create a build pipeline with GitHub Actions
