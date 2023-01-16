@@ -3,3 +3,5 @@
 - Add some Starcraft audio pieces
 - Create more rules for sample config
 - Compile regex for regex types?
+- Make a macro to register types/sources
+- Handle error better in shell_source
