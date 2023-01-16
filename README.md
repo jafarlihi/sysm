@@ -28,9 +28,9 @@ sudo pacman -S sfml
 sudo apt install libsfml-dev
 ```
 
-Build & install:
+Clone, build & install:
 ```
-make install
+git clone https://github.com/jafarlihi/sysm && cd sysm && make install
 ```
 
 Run:
