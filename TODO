@@ -1,2 +1,5 @@
 - Put sources and types into seperate directories inside sources/
 - In types, check if music is loaded before attempting to play to prevent errors on console
+- Add some Starcraft audio pieces
+- Create more rules for sample config
+- Compile regex for regex types?
