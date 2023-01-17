@@ -8,3 +8,4 @@
 - Check if it works in macOS and BSDs
 - Make an AUR package for Arch Linux
 - Create a build pipeline with GitHub Actions
+- Vary [sound volume, playback speed, pitch] based on [absolute value, rate of change], etc
